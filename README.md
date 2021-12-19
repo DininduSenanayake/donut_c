@@ -5,3 +5,4 @@
 
 $ gcc -o donut donut.c
 ```
+* gcc 4 or above
